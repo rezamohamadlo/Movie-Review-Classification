@@ -40,25 +40,15 @@ This project aims to classify IMDB movie reviews as either positive or negative 
 - NumPy
 - Matplotlib
 
-### Usage
-
-1. Install the required libraries: `pip install tensorflow tensorflow-datasets numpy matplotlib`
-2. Run the Python script containing the code.
 
 ### Results
 
 The accuracy and loss graphs for each model are plotted using Matplotlib. The graphs show the training and validation performance of the models over the specified number of epochs.
 
-### Future Improvements
 
-- Experiment with different hyperparameters to improve model performance.
-- Try other deep learning architectures or ensemble methods to further enhance the sentiment analysis capabilities.
-- Explore transfer learning techniques using pre-trained word embeddings or language models.
 
-### Contributing
+## Files
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
+- **`IMDB-Review-Classification.ipynb`**: Jupyter Notebook containing the complete implementation of the text generation model.
+- **`data-preprocessing.ipynb`**: Jupyter Notebook for data preprocessing tasks, including loading and preparing the Shakespearean sonnets dataset.
+- **`readme.md`**: This file, providing an overview and details about the project.
