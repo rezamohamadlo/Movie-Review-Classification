@@ -50,6 +50,6 @@ The accuracy and loss graphs for each model are plotted using Matplotlib. The gr
 
 ## Files
 
-- **`IMDB-Review-Classification.ipynb`**: Jupyter Notebook containing the complete implementation of the text generation model.
-- **`data-preprocessing.ipynb`**: Jupyter Notebook for data preprocessing tasks, including loading and preparing the Shakespearean sonnets dataset.
+- **`IMDB-Review-Classification.ipynb`**:  Notebook containing the complete implementation of the model.
+- **`data-preprocessing.ipynb`**: Jupyter Notebook for data preprocessing tasks, including loading and preparing the IMDB dataset.
 - **`readme.md`**: This file, providing an overview and details about the project.
