@@ -1,4 +1,5 @@
 ## IMDB Movie Review Classification
+(This project has been done as a programing assignment of course "Natural Language Processing in Tensorflow" in Coursera website.
 
 ### Overview
 
